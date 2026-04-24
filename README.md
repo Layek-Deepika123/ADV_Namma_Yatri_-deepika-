@@ -17,10 +17,15 @@ Build interactive dashboards for decision-making
 The dashboard provides:
 
 Ride Volume Analysis
+
 Peak Hour Demand Insights
+
 Driver Performance Metrics
+
 Booking Status Distribution
+
 Revenue & Operational KPIs
+
 City-wise Performance Analysis
 
 ### Methodology
