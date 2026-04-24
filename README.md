@@ -14,41 +14,36 @@ Build interactive dashboards for decision-making
 
 ### Dashboard Highlights
 
-The dashboard provides:
-
-Ride Volume Analysis
-
-Peak Hour Demand Insights
-
-Driver Performance Metrics
-
-Booking Status Distribution
-
-Revenue & Operational KPIs
-
-City-wise Performance Analysis
+- The dashboard provides:
+- Ride Volume Analysis
+- Peak Hour Demand Insights
+- Driver Performance Metrics
+- Booking Status Distribution
+- Revenue & Operational KPIs
+- City-wise Performance Analysis
 
 ### Methodology
-Data Understanding & Exploration
-Data Cleaning & Transformation
-Feature Engineering
-KPI Definition
-Dashboard Development
-Insight Generation
-Business Recommendation Design
+- Data Understanding & Exploration
+- Data Cleaning & Transformation
+- Feature Engineering
+- KPI Definition
+- Dashboard Development
+- Insight Generation
+- Business Recommendation Design
+
 ### Key Insights
-Peak booking demand occurs during rush hours.
-Certain locations generate higher ride volumes.
-Driver availability directly impacts ride completion rate.
-Cancellation patterns indicate operational inefficiencies.
-Customer demand trends help optimize driver allocation.
+- Peak booking demand occurs during rush hours.
+- Certain locations generate higher ride volumes.
+- Driver availability directly impacts ride completion rate.
+- Cancellation patterns indicate operational inefficiencies.
+- Customer demand trends help optimize driver allocation.
 
 ### Business Recommendations
-Improve driver allocation during peak hours.
-Implement dynamic pricing strategies.
-Reduce cancellations through smarter ride matching.
-Incentivize drivers in high-demand zones.
-Optimize operational planning using demand forecasting.
+- Improve driver allocation during peak hours.
+- Implement dynamic pricing strategies.
+- Reduce cancellations through smarter ride matching.
+- Incentivize drivers in high-demand zones.
+- Optimize operational planning using demand forecasting.
 
 ### Deliverables
 
@@ -61,8 +56,8 @@ Optimize operational planning using demand forecasting.
 
 This project demonstrates practical skills in:
 
-Data Analysis
-Dashboard Development
-Business Intelligence
-Storytelling with Data
-Strategic Decision Support
+- [x] Data Analysis
+- [x] Dashboard Development
+- [x] Business Intelligence
+- [x] Storytelling with Data
+- [x] Strategic Decision Support
